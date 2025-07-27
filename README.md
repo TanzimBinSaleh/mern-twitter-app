@@ -96,7 +96,7 @@ A full-featured Twitter clone built with the MERN stack (MongoDB, Express.js, Re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/twitter-clone.git
+git clone https://github.com/TanzimBinSaleh/mern-twitter-app.git
 cd twitter-clone
 ```
 
